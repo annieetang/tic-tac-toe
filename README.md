@@ -1,2 +1,3 @@
 # tic-tac-toe
-Tic Tac Toe game implemented in Java with a GUI
+
+Tic Tac Toe game implemented in Python with a GUI
